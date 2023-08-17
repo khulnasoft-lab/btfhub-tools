@@ -2,7 +2,7 @@
 
 This repository is meant to be used together with:
 
-- https://github.com/khulnasoft-labs/btfhub
+- https://github.com/khulnasoft-lab/btfhub
 
 You may consider it as a spin off of the original btfhub repository tools,
 scripts and binaries. The idea behind this is that, since we're maintaining
@@ -13,7 +13,7 @@ tooling.
 
 ### Generating Tailored (to one or multiple eBPF objects) BTF Files
 
-1. Copy the contents of https://github.com/khulnasoft-labs/btfhub/tree/main/archive into ./archive/ directory
+1. Copy the contents of https://github.com/khulnasoft-lab/btfhub/tree/main/archive into ./archive/ directory
 
 2. Execute:
 
@@ -45,9 +45,9 @@ DBTF: ./custom-archive/ubuntu/18.04/x86_64/5.4.0-1043-azure.btf
 
 3. Check ./custom-archive/ for the generated BTF files.
 
-### Updating the main [BTFHub](https://github.com/khulnasoft-labs/btfhub) repository.
+### Updating the main [BTFHub](https://github.com/khulnasoft-lab/btfhub) repository.
 
-1. Copy the contents of https://github.com/khulnasoft-labs/btfhub/tree/main/archive into ./archive/ directory
+1. Copy the contents of https://github.com/khulnasoft-lab/btfhub/tree/main/archive into ./archive/ directory
 
 2. Execute :
 
